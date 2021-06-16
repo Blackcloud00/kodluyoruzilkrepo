@@ -1,0 +1,24 @@
+
+body{
+    padding: 0;
+    margin:0;
+    background-color: black;
+}
+
+.progress-bar
+{
+    width: 100%;
+    height: 5px;
+    background-color: #ffffff;
+    color: white;
+    margin-top: 385px ;
+}
+
+.progress-bar-bg
+{
+    width: 80%;
+    height: 5px;
+    background-color:#951208;
+    margin-top: 385px ;
+
+}
