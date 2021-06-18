@@ -1,0 +1,280 @@
+.section-1 {
+  width: 100%;
+  height: 454px;
+  background-color: #E6007E; }
+  .section-1 .container .logo {
+    position: relative;
+    top: 75px;
+    width: 182px;
+    margin-left: auto;
+    margin-right: auto; }
+  .section-1 .container .text {
+    text-align: center; }
+    .section-1 .container .text .btn-sizi {
+      position: relative;
+      margin-left: auto;
+      margin-right: auto;
+      top: 180px;
+      width: 200px;
+      height: 50px;
+      background-color: #0066CC;
+      border-radius: 4px;
+      border: none;
+      color: white;
+      z-index: 5; }
+    .section-1 .container .text .text-h {
+      z-index: 5;
+      position: relative;
+      margin-left: auto;
+      margin-right: auto;
+      top: 140px;
+      width: 510px;
+      height: 100px;
+      text-align: center;
+      color: white;
+      font-family: 'Quicksand', sans-serif;
+      font-size: 40px; }
+    .section-1 .container .text .text-p {
+      position: relative;
+      margin-left: auto;
+      margin-right: auto;
+      font-size: 22px;
+      text-align: center;
+      top: 170px;
+      color: white;
+      font-family: 'Open Sans', sans-serif;
+      z-index: 5;
+      width: 545px;
+      height: 81px; }
+  .section-1 .container .images {
+    z-index: 2;
+    position: relative;
+    top: -320px; }
+  .section-1 .wave {
+    z-index: -1;
+    position: relative;
+    top: -350px; }
+
+.section-2 {
+  z-index: 5;
+  position: relative;
+  background-color: white;
+  border-radius: 21px;
+  top: 100px;
+  height: 161px;
+  box-shadow: 0px 14px 40px #0000002e; }
+  .section-2 .ic-prize {
+    position: relative;
+    top: 30px; }
+    .section-2 .ic-prize h3 {
+      font-family: 'Oxygen', sans-serif;
+      font-weight: bold;
+      font-size: 25px; }
+    .section-2 .ic-prize p {
+      font-family: 'Oxygen', sans-serif;
+      font-weight: normal;
+      font-size: 20px; }
+
+.section-3 {
+  position: relative;
+  top: 200px; }
+  .section-3 .neden {
+    position: relative;
+    top: 45px; }
+  .section-3 .neden-col img {
+    width: 373px;
+    height: 216px; }
+  .section-3 .neden-col .neden-text {
+    position: relative;
+    margin-top: 25px;
+    font-size: 16px;
+    font-family: "Open Sans", sans-serif;
+    color: #545f80;
+    width: 373px;
+    height: 69px; }
+  .section-3 .neden-baslik {
+    color: #E6077E;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 30px;
+    font-weight: bold; }
+  .section-3 .neden-baslik-2 {
+    position: relative;
+    top: 20px;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: #33335e;
+    width: 350px;
+    height: 64px; }
+  .section-3 .iletisim-form form {
+    width: 336px;
+    border: 1px solid #CCD3DD;
+    padding-top: 20px; }
+    .section-3 .iletisim-form form h2 {
+      margin-top: 15px;
+      margin-left: 15px;
+      font-family: "Quicksand", sans-serif;
+      font-size: 25px;
+      color: #E6007E; }
+    .section-3 .iletisim-form form input {
+      margin-top: 10px;
+      margin-left: 15px;
+      width: 286px; }
+    .section-3 .iletisim-form form p {
+      margin-top: 20px;
+      margin-left: 15px;
+      width: 286px;
+      font-size: 18px;
+      font-family: "Open Sans", sans-serif;
+      color: #545f80; }
+    .section-3 .iletisim-form form label {
+      margin-top: 15px;
+      margin-left: 15px;
+      width: 286px;
+      font-size: 18px;
+      font-family: "Open Sans", sans-serif;
+      color: #545f80; }
+    .section-3 .iletisim-form form button {
+      padding-top: 10px;
+      padding-bottom: 10px;
+      width: 100%; }
+
+.section-4 {
+  position: relative;
+  height: 320px;
+  top: 400px; }
+  .section-4 .alan .basari-slider .slider_baslik {
+    position: relative;
+    bottom: 40px;
+    font-family: "Quicksand", sans-serif;
+    font-size: 30px;
+    color: #E6007E;
+    font-weight: bold; }
+  .section-4 .alan .basari-slider .owl-nav {
+    display: none; }
+  .section-4 .alan .basari-slider .owl-dots {
+    position: relative;
+    top: 20px; }
+  .section-4 .alan .basari-slider .item .text {
+    position: relative;
+    left: 30px;
+    top: 50px; }
+  .section-4 .alan .basari-slider .item .slider_btn {
+    background-color: #E6007E;
+    color: white;
+    width: 181px;
+    height: 51px; }
+  .section-4 .alan .basari-slider .item h5 {
+    color: #33335E;
+    font-family: "Quicksand", sans-serif;
+    font-weight: bold;
+    font-size: 20px; }
+  .section-4 .alan .basari-slider .item p {
+    position: relative;
+    margin-top: 10px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    color: #545f80; }
+
+.section-5 {
+  position: relative;
+  top: 600px; }
+  .section-5 .text {
+    position: relative;
+    top: 80px;
+    width: 431px; }
+    .section-5 .text h2 {
+      font-family: "Quicksand", sans-serif;
+      font-weight: bold;
+      font-size: 40px;
+      color: #E6007E; }
+    .section-5 .text p {
+      padding-top: 20px;
+      font-family: "Open Sans", sans-serif;
+      font-size: 22px;
+      color: #545f80; }
+    .section-5 .text a {
+      position: relative;
+      top: 12px;
+      font-size: 18px; }
+
+.section-6 {
+  position: relative;
+  top: 780px; }
+  .section-6 .footer-text h1 {
+    font-family: "Quicksand", sans-serif;
+    font-size: 35px;
+    color: #33335e; }
+  .section-6 .footer-text p {
+    position: relative;
+    top: 40px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px; }
+
+.section-7 {
+  position: relative;
+  top: 900px;
+  text-align: center; }
+  .section-7 .footer_logo {
+    position: relative;
+    width: 177px;
+    height: 54px;
+    margin: 15px auto; }
+
+@media (max-width: 1470px) {
+  .section-5 .alt_gorsel {
+    width: 600px;
+    height: auto; } }
+@media (max-width: 1399px) {
+  .section-1 .wave {
+    top: -280px; } }
+@media (max-width: 1199px) {
+  .section-1 .wave {
+    top: -210px; }
+
+  .section-2 {
+    height: 380px; }
+    .section-2 .ic-prize {
+      padding-top: 10px; }
+
+  .section-3 .iletisim-form form {
+    position: relative;
+    top: 100px; }
+
+  .section-5 .img {
+    position: relative;
+    top: 100px; }
+
+  .col-xl-6.col-md-12.footer-text {
+    position: relative;
+    bottom: 45px; } }
+@media (max-width: 991px) {
+  .section-1 .wave {
+    top: -140px; }
+
+  .section-3 .iletisim-form form {
+    top: 40px;
+    right: 30px; }
+
+  .col-xl-6.col-md-12.footer-text {
+    position: relative;
+    bottom: 45px; } }
+@media (max-width: 768px) {
+  .section-1 .container .text .text-h {
+    font-size: 25px;
+    width: 320px; }
+
+  .section-1 .container .text .text-p {
+    top: 130px;
+    font-size: 13px;
+    width: 320px; }
+
+  .section-3 .iletisim-form form {
+    top: 85px;
+    right: 0; }
+
+  .section-6 .footer-text {
+    position: relative;
+    bottom: 100px; } }
+
+/*# sourceMappingURL=style.css.map */
