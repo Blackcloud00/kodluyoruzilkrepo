@@ -16,3 +16,9 @@ if(sonuc<18.5){
     document.getElementById("kategori").innerText="Obese";
 }
 }
+function temizle(){
+    document.getElementById("kategori").innerText="";
+    document.getElementById("sonuc").innerText="";
+    height.innerText="";
+    height.innerText="";
+}
