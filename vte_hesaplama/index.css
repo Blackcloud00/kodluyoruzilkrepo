@@ -1,0 +1,15 @@
+.container .form{
+    font-family: 'Gemunu Libre', sans-serif;
+    background-color: #a52a2a7d;
+    text-align: center;
+}
+input {
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid;
+}
+.information h5{
+    position: relative;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
