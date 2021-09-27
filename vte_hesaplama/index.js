@@ -19,6 +19,6 @@ if(sonuc<18.5){
 function temizle(){
     document.getElementById("kategori").innerText="";
     document.getElementById("sonuc").innerText="";
-    height.innerText="";
-    height.innerText="";
+    document.getElementById("weight").value="";
+    document.getElementById("height").value="";
 }
